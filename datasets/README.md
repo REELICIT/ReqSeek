@@ -87,12 +87,12 @@ sward.to_dict()
 
 ---
 
-## UOCSSR
+## Heuristics Dataset Blinded
 
 | Column Name             | Description |
 |------------------------|-------------|
 | `REQID`                 | Internal identifier assigned by the authors. May contain duplicate values. |
-| `REQID_expanded`        | Unique identifier for each requirement in UOCSSR. |
+| `REQID_expanded`        | Unique identifier for each requirement in this dataset. |
 | `Project Name`          | Name of the project from which the requirement originates. |
 | `Subproject Name`       | Name of a subproject within the larger project. |
 | `Requirement Sentences` | The textual content of the requirement statement. |

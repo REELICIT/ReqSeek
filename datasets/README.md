@@ -1,5 +1,12 @@
 # Datasets:
-This directory will contain our contributed datasets (`ARID`, `SwaRD`, `BLINDED-DATASET`). We use Hugging Face API `dataset` format for our datasets. Hugging Face datasets offer several advantages:
+
+
+This directory provides details and instruction how to use the three datasets (`ARID`, `SwaRD`, `BLINDED-DATASET`) that were made available via the HotCRP submission portal during the peer-review process.
+
+- 🔒 **Access Notice**: These datasets are currently shared exclusively for peer review.
+- 📢 We will **make them publicly available; open-source,** after the peer-review process is complete.
+
+We use Hugging Face API `dataset` format for our datasets. Hugging Face datasets offer several advantages:
 
 
 - Efficient memory usage for large datasets

@@ -7,7 +7,7 @@ This repository is provided solely as a replication package for the peer review 
 --- 
 
 ## Summary  
-This replication package supports our paper titled: **ReqSeek: Transformer-Based Automatic Requirements Identification for Building Large Requirements Datasets**, which introduces a transformer-based approach (ReqSeek) for automatically identifying requirements in textual data. Many deep-learning methods require large datasets, but collecting labeled requirements data is challenging. Our work aims to facilitate the creation of large-scale requirements datasets for training AI models.
+This replication package supports our paper titled: **ReqSeek: Transformer-Based Automatic Requirements Identification for Building Large Requirements Datasets**, which introduces a transformer-based model (ReqSeek) for automatically identifying requirements in textual data to construct large-scale software requirments datasets. Many deep-learning methods require large datasets, but collecting labeled requirements data is challenging. Our work aims to facilitate the creation of large-scale requirements datasets for training AI models.
 
 ---
 
